@@ -2,6 +2,7 @@ body{
     display: flex;
     justify-content:space-around;
     margin-top: 200px;
+    flex-wrap: wrap;
 }
 
 .box1{
@@ -43,4 +44,20 @@ body{
     height: 200px;
     width: 200px;
     background-color:rgb(120, 8, 70);
+}
+.box6{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 200px;
+    width: 200px;
+    background-color:rgb(78, 208, 61);
+}
+.box7{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 200px;
+    width: 200px;
+    background-color:rgb(235, 73, 162);
 }
