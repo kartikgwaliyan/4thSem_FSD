@@ -1,0 +1,34 @@
+/* body{
+    display: flex;
+    gap: 20px;
+}
+
+.box1{
+    height: 200px;
+    width: 200px;
+    background-color: rgb(7, 120, 82);
+}
+.box2{
+    height: 200px;
+    width: 200px;
+    background-color: rgb(11, 64, 199);
+}
+.box3{
+    height: 200px;
+    width: 200px;
+    background-color:rgb(14, 220, 220);
+} */
+
+.outer-box{
+    background-color: rgb(124, 124, 248);
+    height: 400px;
+    width: 400px;
+}
+
+.inner-box{
+    margin: 5px;
+    padding: 10px;
+    background-color: white;
+    color: rgb(124, 124, 248);
+    border: 2px solid black;
+}
