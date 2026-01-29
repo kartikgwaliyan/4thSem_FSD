@@ -3,11 +3,13 @@ body{
     justify-content:space-around;
     margin-top: 200px;
     flex-wrap: wrap;
+    
 }
 
 .box1{
     display: flex;
     justify-content: center;
+    flex-shrink: ; 
     align-items: center;
     height: 200px;
     width: 200px;
