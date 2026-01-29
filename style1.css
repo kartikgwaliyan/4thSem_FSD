@@ -9,7 +9,7 @@ body{
 .box1{
     display: flex;
     justify-content: center;
-    flex-shrink: ; 
+    flex-shrink: 1; 
     align-items: center;
     height: 200px;
     width: 200px;
